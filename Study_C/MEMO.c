@@ -77,5 +77,6 @@ void MEMOmain() {
 	//assignment1();
 	//assignment2();
 
+	print("hello");
 
 }
