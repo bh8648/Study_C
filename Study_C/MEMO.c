@@ -74,7 +74,9 @@ void assignment2() {
 
 void MEMOmain() {
 
-	assignment1();
-	assignment2();
+	//assignment1();
+	//assignment2();
 	
+	printf("hello");
+
 }
